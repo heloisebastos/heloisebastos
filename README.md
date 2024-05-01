@@ -62,7 +62,7 @@ About me
 
 <h3 align="left">:mailbox: contact</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/heloisebastos-engcomputacao/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="30" /></a>
+  <a href="https://www.linkedin.com/in/heloisebastos-engcomputacao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <img width="12" />
 <a href = "mailto:heloisebastos28@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </p>
