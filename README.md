@@ -8,7 +8,7 @@
 
 ---
 About me
-- ✨ Developer since 2020
+- ✨ Studying technology since 2020
 - 📫 How to reach me **heloisebastos28@hotmail.com**
 - 📚 I'm currently learning English and Java
 - 🎯 Objectives: develop software and speak English 🚀
