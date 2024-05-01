@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=70&section=header"/>
+
 <div align="center">
 
 <img width=50% bottom=100px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
@@ -66,3 +69,4 @@ About me
 <img width="12" />
 <a href = "mailto:heloisebastos28@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=70&section=footer"/>
