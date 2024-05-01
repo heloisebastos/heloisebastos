@@ -4,11 +4,7 @@
 
 </div>
 
-<br>
-<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=25&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Heloíse+Bastos;I'm+a+Computer+Engineering+student;Welcome)](https://git.io/typing-svg)
 
 
-<br>
-<br>
