@@ -7,12 +7,11 @@
 
 ---
 About me
-- ✨ Creating bugs since 2020
+- ✨ Developer since 2020
+- 📫 How to reach me **heloisebastos28@hotmail.com**
 - 📚 I'm currently learning English and Java
 - 🎯 Objectives: develop software and speak English 🚀
 - 📚 Computer Engineering student at [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
-
-
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heloisebastos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
