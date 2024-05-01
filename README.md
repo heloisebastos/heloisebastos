@@ -11,7 +11,7 @@ About me
 - ✨ Studying technology since 2020
 - 📫 How to reach me **heloisebastos28@hotmail.com**
 - 📚 I'm currently learning English and Java
-- 🎯 Objectives: develop software and speak English 🚀
+- 🎯 Objectives: develop software and speak English 
 - 📚 Computer Engineering student at [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
 
 <div align="center">
