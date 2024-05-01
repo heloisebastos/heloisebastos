@@ -6,14 +6,11 @@
 
 </div>
 
-
-
-
 ---
 About me
 
-*✨ Creating bugs since 2020
-*📚 I'm currently learning English and Java
-*🎯 Objectives: develop software and speak English 🚀
-
+- ✨ Creating bugs since 2020
+- 📚 I'm currently learning English and Java
+- 🎯 Objectives: develop software and speak English 🚀
+- Computer Engineering student at [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
 
