@@ -20,7 +20,7 @@ About me
 </div>
 
 ---
-🛠 Language and tools
+🛠 Studied or studying at the moment:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
   <img width="12" />
@@ -59,7 +59,10 @@ About me
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heloisebastos)](https://github.com/heloisebastos/github-readme-activity-graph)
 ----
-<h3 align="left">contact</h3>
+
+<h3 align="left">:mailbox: contact</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/heloisebastos-engcomputacao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heloisebastos-engcomputacao/" height="30" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/heloisebastos-engcomputacao/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="30" /></a>
+<img width="12" />
+<a href = "mailto:heloisebastos28@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </p>
