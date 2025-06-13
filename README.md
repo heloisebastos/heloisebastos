@@ -11,11 +11,10 @@
 
 ---
 About me
-- ✨ Studying technology since 2020
-- 📫 How to reach me **heloisebastos28@hotmail.com**
-- 📚 I'm currently learning English and Java
-- 🎯 Objectives: develop software and speak English 
-- 📚 Computer Engineering [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
+- ✨ Estudante de tecnologia desde 2020
+- 📚 Atualmente estudo de Inglês, Python e Java
+- 🎯 Objetivos : desenvolver software e falar inglês
+- 📚 Engenheira da Computação [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heloisebastos&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFFf&text_color=00BFFFf&bg_color=0d1117" alt="Heloise Bastos github status" /> 
