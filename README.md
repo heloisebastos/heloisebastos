@@ -12,7 +12,7 @@
 ---
 About me
 - ✨ Estudante de tecnologia desde 2020
-- 📚 Atualmente estudo de Inglês, Python e Java
+- 📚 Atualmente estudo sobre Inglês, Python e Java
 - 🎯 Objetivos : desenvolver software e falar inglês
 - 📚 Engenheira da Computação [Instituto Federal de Mato Grosso](https://ifmt.edu.br/)
 
